@@ -1,0 +1,6 @@
+{
+  "name": "Consultor Corporativo FIRJAN",
+  "description": "Sistema especializado de triagem de CNPJs e enquadramento sindical patronal conforme as normas oficiais da FIRJAN e CIRJ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
